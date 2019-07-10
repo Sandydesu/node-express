@@ -1,4 +1,4 @@
-# Node with Hapi 
+# Node with Express
 This is POC of node with express. Here we are using express, Mongodb, Node, body-parser
 
 ## Requirements
